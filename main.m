@@ -5,5 +5,5 @@ int a
 return 0;
 }
 
-int add(){
+int efadd(){
 }
