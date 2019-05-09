@@ -5,5 +5,6 @@ int a
 return 0;
 }
 
-int efadd(){
+int addfffff(){
 }
+printf("abc");
